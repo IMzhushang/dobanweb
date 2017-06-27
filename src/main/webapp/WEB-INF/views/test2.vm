@@ -1,0 +1,2 @@
+#set($layout="layout/test2_layout.vm")
+<h2>Test 2</h2>
