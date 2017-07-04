@@ -9,4 +9,8 @@ package com.doban.controller;
  *
  */
 public class DobanController {
+
+    public static  void get() {
+        
+    }
 }
