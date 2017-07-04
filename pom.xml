@@ -193,12 +193,6 @@
         </dependency>
 
 
-        <!--这是我在分支b1上的修改-->
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-            <version>1.2.33</version>
-        </dependency>
 
 
     </dependencies>
